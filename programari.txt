@@ -1,0 +1,5 @@
+4
+Ursu,Andrei,213321,12/05/2009,Pediatrie,1
+Petrica,Pietricel,123123123,16/05/2021,Psihiatrie,1
+Bahoi,Alexandru,123123,17/05/2021,Pediatrie,0
+Gaspar,Pompiliu,2321232123,17/05/2021,Urologie,0

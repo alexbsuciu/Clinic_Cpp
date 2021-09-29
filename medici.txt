@@ -1,0 +1,8 @@
+7
+Gaspar,Pompiliu,1231231,Miner
+Molnar,Antonia,123123100,Pediatru
+Otiso,Moses,51234131,Pregatar
+Stan,Claudiu,5123771243948,Urolog
+Stoia,Teodora,4030122324286,Pediatru
+Streulea,Lucian,5010202324786,Psiholog
+Suciu,Alexandru,3912839101223,Ginecolog
